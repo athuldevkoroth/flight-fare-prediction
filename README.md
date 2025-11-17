@@ -4,11 +4,14 @@ This project predicts flight ticket prices based on various travel features such
 It includes the complete notebook, trained model, dataset, and requirements to reproduce the results.
 
 ## 📂 Project Structure
+```
 ├── FlightFare.ipynb        # Jupyter Notebook (full EDA + model building)
 ├── dataset.csv             # Training dataset
 ├── requirements.txt        # Required Python libraries
 ├── model.zip               # Zipped trained model (.pkl inside)
 └── README.md               # Project documentation
+```
+
 
 ## 🧠 What This Project Includes
 
